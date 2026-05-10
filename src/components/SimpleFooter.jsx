@@ -55,7 +55,7 @@ const SimpleFooter = () => {
             <SocialIcon icon={<Shield size={18} />} />
           </div>
           <p className="text-zinc-500 text-[10px] font-medium uppercase tracking-widest">
-            ©Copyright. All rights reserved.
+            ©Copyright. All rights reserved. Made By Swachhal
           </p>
         </div>
       </div>
