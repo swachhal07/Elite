@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Wrench, Settings, Users, Package, ArrowRight, CheckCircle, Car, Battery, Shield, Clock } from 'lucide-react';
+// No icons used in this main landing wrapper
 import ModernHero from '../components/ModernHero';
 import ServiceTicker from '../components/ServiceTicker';
 import Specialties from '../components/Specialties';

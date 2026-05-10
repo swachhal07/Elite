@@ -1,4 +1,4 @@
-import { ArrowUpRight } from 'lucide-react';
+// No icons used in this version
 import engineImg from '../assets/engine.jpg';
 import brakeImg from '../assets/porsche brake.jpg';
 import suspensionImg from '../assets/suspension.jpg';

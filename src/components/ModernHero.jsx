@@ -1,7 +1,7 @@
 import React, { useRef, useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { Wrench, ArrowRight } from 'lucide-react';
+// No icons used in this version
 import logo from '../assets/car Repair (1).svg';
 
 /* ── Animated Cursor Tab ── */
