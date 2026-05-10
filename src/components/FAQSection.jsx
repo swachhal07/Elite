@@ -6,7 +6,7 @@ const faqData = [
   {
     id: 'Q01',
     question: 'WHAT AREAS DO YOU SERVE?',
-    answer: 'We serve the entire Kansas City metro area and surrounding suburbs. For performance parts shipping, we serve customers nationwide.'
+    answer: 'We serve the entire Kathmandu Valley and surrounding areas. For performance parts shipping, we serve customers nationwide.'
   },
   {
     id: 'Q02',

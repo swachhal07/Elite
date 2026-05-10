@@ -16,11 +16,17 @@ export default function Landing() {
     <div className="min-h-screen bg-white text-zinc-900 font-sans">
       <ModernHero />
       <ServiceTicker />
-      <Specialties />
-      <RecentWork />
+      <div id="specialties">
+        <Specialties />
+      </div>
+      <div id="recent-builds">
+        <RecentWork />
+      </div>
       <WhyHireUs />
       <Reviews />
-      <ContactSection />
+      <div id="contact">
+        <ContactSection />
+      </div>
       <FAQSection />
       <SimpleFooter />
     </div>

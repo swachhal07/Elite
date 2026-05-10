@@ -85,8 +85,8 @@ const ModernHero = () => {
         {/* Nav Links */}
         <div className="hidden lg:flex items-center gap-10">
           <a href="/" className="text-lg font-semibold text-white hover:text-white/70 transition-colors">Home</a>
-          <a href="#features" className="text-lg font-semibold text-white hover:text-white/70 transition-colors">Features</a>
-          <a href="#about" className="text-lg font-semibold text-white hover:text-white/70 transition-colors">About</a>
+          <a href="#specialties" className="text-lg font-semibold text-white hover:text-white/70 transition-colors">Specialties</a>
+          <a href="#recent-builds" className="text-lg font-semibold text-white hover:text-white/70 transition-colors">Recent Builds</a>
           <a href="#contact" className="text-lg font-semibold text-white hover:text-white/70 transition-colors">Contact</a>
         </div>
 
